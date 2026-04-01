@@ -1,16 +1,27 @@
-# React + Vite
+Project Name: DigiTools
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive digital products marketplace website where users can explore premium tools, view product details, add items to cart, and experience a clean e-commerce style interface. DigiTools is designed to help creators, developers, and professionals discover useful digital resources in a visually appealing way.
 
-Currently, two official plugins are available:
+This project focuses on creating a clean UI/UX inspired by a modern marketplace layout while practicing React component structure, state management, and responsive styling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- React Icons / Lucide Icons
 
-## Expanding the ESLint configuration
+Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Add to Cart Functionality
+Users can add digital products to the cart, and the cart count updates dynamically in the navbar.
+
+ 2.  Fully Responsive Design
+The website adapts beautifully across mobile, tablet, and desktop devices using Tailwind CSS responsive classes.
+
+3.  Modern Marketplace UI
+Includes a professional navbar, hero section, product showcase, testimonials/pricing sections, and visually attractive layout inspired by modern digital product websites.
