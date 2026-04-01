@@ -15,7 +15,7 @@ Technologies Used:
 - CSS3
 - React Icons / Lucide Icons
 
-Features
+Features:
 
 1. Add to Cart Functionality
 Users can add digital products to the cart, and the cart count updates dynamically in the navbar.
