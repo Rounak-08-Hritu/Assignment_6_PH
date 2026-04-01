@@ -5,7 +5,7 @@ A modern and responsive digital products marketplace website where users can exp
 This project focuses on creating a clean UI/UX inspired by a modern marketplace layout while practicing React component structure, state management, and responsive styling.
 
 
-Technologies Used
+Technologies Used:
 
 - React.js
 - Vite
