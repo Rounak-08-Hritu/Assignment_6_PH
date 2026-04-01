@@ -10,7 +10,7 @@ Technologies Used
 - React.js
 - Vite
 - Tailwind CSS
-- JavaScript (ES6+)
+- JavaScript 
 - HTML5
 - CSS3
 - React Icons / Lucide Icons
